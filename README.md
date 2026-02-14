@@ -6,6 +6,7 @@ The app offers a beautiful user interface with smooth animations, advanced featu
 
 ---
 
+
 ## Why Muslim Soul?
 In today's fast-paced world, having quick access to authentic Islamic resources is essential. Muslim Soul aims to bring the Holy Quran, Prayer Times, and Islamic Knowledge to your fingertips, wrapped in an elegant and easy-to-use interface.
 
