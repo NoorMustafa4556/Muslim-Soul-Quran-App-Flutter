@@ -1,3 +1,4 @@
+
 # 📖 Muslim Soul – Ultimate Quran & Islamic App (Flutter)
 
 **Muslim Soul** is a comprehensive Flutter application designed to be the perfect companion for every Muslim. It integrates the Holy Quran, accurate prayer times, Hijri calendar, and an advanced AI-powered Islamic Assistant to help you in your daily spiritual journey.
